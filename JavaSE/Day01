@@ -12,4 +12,4 @@ Day01：
   A: java自动类型转化将下级类型转化为上级类型、强制类型转化可以讲上级类型转化为下级类型，但会造成信息的丢失 如double 转化为 int 会丢失小数点的信息
   
   Q：java结构类型
-  A：标准顺序结构、IF...ELSE、FOR、SWITCH
+  A：标准顺序结构、IF...ELSE、FOR、SWITCH、WHILE
