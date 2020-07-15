@@ -2,6 +2,9 @@ Day01：
   Q：java 为什么能在不同的系统环境下运行
   A：java在编译后在不同系统下不同的JVM虚拟环境下运行
   
+  Q：java中不同数据类型运算结果
+  A：java运算自动转化为上级类型，如char + int 最后结果为Int类型
+  
   Q：java环境如何配置
   A：官网下载对应版本的JDK（java运行环境和一些java包的集合）
   
@@ -13,3 +16,6 @@ Day01：
   
   Q：java结构类型
   A：标准顺序结构、IF...ELSE、FOR、SWITCH、WHILE
+  
+  Q：java中的单双引号和Python不同
+  A；java中的单引号标识单个字符，双引号标识字符串
