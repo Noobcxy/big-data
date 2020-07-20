@@ -2,4 +2,6 @@ Day02
   Q:Java idea 编译器项目组成结构
   A:project -> model -> package -> class
   
+  Q:Java idea中.java文件编辑过后的.class文件地址
+  A:和项目文件地址不同单独存放在class文件夹中
   
